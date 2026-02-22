@@ -12,8 +12,8 @@ TBD
 
 ## 대회 진행
 
-- 참가팀에게 대회 며칠 전에 대회용 계정 정보를 나눠드릴 예정입니다. 위 사이트에서 이 계정으로 로그인해 대회를 치르면 됩니다.
-- UCPC 2025 예선 대회에서는 **Zoom을 이용한 실시간 감독**을 진행할 예정입니다. 자세한 사항은 [링크](https://docs.google.com/document/d/1vrTIX3RskTrBfxUC0ZcPxCj00-Jco8y_JmncfJhT5WM/edit?usp=sharing)를 참고해 주세요.
+- 참가팀에게 대회 며칠 전에 대회용 계정 정보를 나눠드릴 예정입니다. 이 계정으로 로그인해 대회를 치르면 됩니다.
+<!-- - UCPC 2026 예선 대회에서는 **Zoom을 이용한 실시간 감독**을 진행할 예정입니다. 자세한 사항은 [링크](https://docs.google.com/document/d/1vrTIX3RskTrBfxUC0ZcPxCj00-Jco8y_JmncfJhT5WM/edit?usp=sharing)를 참고해 주세요.-->
 - 인터넷 검색을 이용하거나 미리 준비한 코드를 사용해도 됩니다.
 
 ### 유의사항

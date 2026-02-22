@@ -21,7 +21,7 @@ title: UCPC 2026
 
 ## UCPC 2026 스폰서
 
-<div> {%- include sponsorsGroup.html -%} </div>
+TBD
 
 ---
 

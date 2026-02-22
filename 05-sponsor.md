@@ -8,7 +8,9 @@ permalink: /sponsor/
   UCPC 2026 스폰서
 </h2>
 
-{%- include sponsorsGroup.html -%}
+<h4 style="text-align: center;">
+  TBD
+</h4>
 
 ## 스폰서 문의
 
