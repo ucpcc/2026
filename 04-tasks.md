@@ -5,6 +5,7 @@ permalink: /tasks/
 ---
 
 UCPC 2026에 사용될 문제를 모집하고 있습니다! 여러분들의 창의적이고 재미있는 문제들을 기다립니다.
+
 UCPC 2026의 Call for Tasks는 2026년 4월 15일에 마감됩니다. 
 <!-- UCPC 2026의 Call for Tasks는 마감되었습니다.-->
 
