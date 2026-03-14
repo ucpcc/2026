@@ -9,10 +9,10 @@ WORKDIR /app
 # Bundler 설치
 RUN gem install bundler -v 2.4.22
 
-# Gemfile만 복사
-COPY Gemfile ./
+# 의존성 버전을 고정하기 위해 lock 파일까지 함께 복사
+COPY Gemfile Gemfile.lock ./
 
-# 기존 lock 파일 무시하고 새로 설치
+# lock 파일 기준으로 gem 설치
 RUN bundle install
 
 COPY . .
