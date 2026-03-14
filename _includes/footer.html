@@ -5,15 +5,27 @@
   <data class="u-url" href="{{ '/' | relative_url }}"></data>
 
   <div class="contents footer_contents">
+    {% if page.lang == 'en' %}
+    <h3>Hosted by</h3>
+    Union of Clubs for Programming Contests
+    {% else %}
     <h3>주최</h3>
     전국 대학생 프로그래밍 대회 동아리 연합
+    {% endif %}
   </div>
 
   <div class="contents footer_contents">
+    {% if page.lang == 'en' %}
+    <h3 style="margin-bottom: 0">Sponsors</h3>
+    <a href="/en/sponsor/">
+      Sponsorship inquiry
+    </a>
+    {% else %}
     <h3 style="margin-bottom: 0">후원</h3>
     <a href="/sponsor">
       후원 문의
     </a>
+    {% endif %}
     <div style="height: 1em"></div>
     <div class="sponsors">
       {%- include sponsors.html sponsor="organization" -%}
@@ -25,14 +37,18 @@
 
   <div class="contents footer_contents">
     <p>
+      {% if page.lang == 'en' %}
+      Union of Clubs for Programming Contests &middot; {{ site.author | escape }}<br>
+      {% else %}
       전국 대학생 프로그래밍 대회 동아리 연합 &middot; {{ site.author | escape }}<br>
+      {% endif %}
       designs &copy; 2020 &ndash; 2026 <a href="https://shiftpsh.com">shiftpsh.com</a>
     </p>
     <span class="footer-inline-icons">
         <a href="https://discord.gg/pfqYwh3U"
           class="discord-link"
           target="_blank" rel="noopener noreferrer"
-          aria-label="Discord 서버로 이동">
+          aria-label="{% if page.lang == 'en' %}Go to Discord server{% else %}Discord 서버로 이동{% endif %}">
           <svg xmlns="http://www.w3.org/2000/svg"
               viewBox="0 0 16 16"
               width="1.6em" height="1.6em"
@@ -43,7 +59,7 @@
         <a href="https://www.instagram.com/ucpc__official/"
           class="instagram-link"
           target="_blank" rel="noopener noreferrer"
-          aria-label="Instagram 계정으로 이동">
+          aria-label="{% if page.lang == 'en' %}Go to Instagram account{% else %}Instagram 계정으로 이동{% endif %}">
           <svg xmlns="http://www.w3.org/2000/svg"
               viewBox="0 0 16 16"
               width="1.6em" height="1.6em"
@@ -54,7 +70,7 @@
         <a href="https://www.facebook.com/groups/ucpc.korea"
           class="facebook-link"
           target="_blank" rel="noopener noreferrer"
-          aria-label="facebook 서버로 이동">
+          aria-label="{% if page.lang == 'en' %}Go to Facebook group{% else %}facebook 서버로 이동{% endif %}">
           <svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="14.2222in" height="14.2222in" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
           viewBox="0 0 14222 14222"
           xmlns:xlink="http://www.w3.org/1999/xlink">

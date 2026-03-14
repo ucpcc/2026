@@ -9,8 +9,13 @@
 
     <div class="contents">
       <div class="main_caption">
+        {% if page.lang == 'en' %}
+        <h1 style="margin-bottom: 0;">UCPC 2026 Summer Contest</h1>
+        Union of Clubs for Programming Contests
+        {% else %}
         <h1 style="margin-bottom: 0;">2026년 여름 대회</h1>
         전국 대학생 프로그래밍 대회 동아리 연합
+        {% endif %}
       </div>
     </div>
     <div style="height: 2rem;"></div>
@@ -47,6 +52,18 @@
 
     <div class="contents">
       <div class="main_description">
+        {% if page.lang == 'en' %}
+        <h2>
+          The 15th UCPC will be held this summer.
+        </h2>
+        <div style="height: 1rem;"></div>
+        <span>
+          UCPC is a summer contest organized by the Union of Clubs for Programming Contests.<br>
+
+          Every year, UCPC offers a strong practice opportunity for teams preparing for ICPC,<br>
+          while also creating a place for exchange and competition among students who share a passion for programming contests.
+        </span>
+        {% else %}
         <h2>
           15번째 UCPC가 열립니다.
         </h2>
@@ -57,6 +74,7 @@
           매년 여름에 진행하는 UCPC는 ICPC를 준비하는 팀들에게 훌륭한 연습 기회가 되고 있고,<br>
           프로그래밍 대회라는 하나의 공통적인 목표와 학구열을 가진 학생들에게 좋은 교류와 경쟁의 장이 되고 있습니다.
         </span>
+        {% endif %}
       </div>
     </div>
 
@@ -75,9 +93,14 @@
     <div style="height: 2rem;"></div>
 
     <div class="contents main_description">
+      {% if page.lang == 'en' %}
+      Watch the <a href="https://github.com/ucpcc/2026">UCPC 2026 GitHub repository</a>
+      <img src="/assets/github-watch-button.png" alt="Watch" style="height: 1.5em; vertical-align: middle;"> to receive updates by email.
+      {% else %}
       UCPC 2026 사이트 <a href="https://github.com/ucpcc/2026">GitHub 레포지토리</a>를
       <img src="/assets/github-watch-button.png" alt="Watch" style="height: 1.5em; vertical-align: middle;"> 하시면
       최신 소식들을 메일로 받아보실 수 있습니다.
+      {% endif %}
     </div>
 
     {%- include footer.html -%}

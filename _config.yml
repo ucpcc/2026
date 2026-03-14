@@ -14,6 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: UCPC 2026
+lang: ko
 email: contact@ucpc.me
 author: UCPC 2026 운영진
 description: >- # this means to ignore newlines until "baseurl:"
