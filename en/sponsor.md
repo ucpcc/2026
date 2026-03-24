@@ -14,9 +14,9 @@ permalink: /sponsor/
 
 ## Sponsor Inquiry
 
-Hello, we are the Union of Nationwide University Programming Contest Clubs.
+Hello, we are the Union of Clubs for Programing Contests.
 
-The Union of Nationwide University Programming Contest Clubs is an alliance of 32 clubs from 31 universities gathered to prepare for and participate in domestic and international programming contests. We **host a summer contest (UCPC)** every year with the **goal of fostering interaction and growth within the university student algorithm problem-solving community**.
+The Union of Clubs for Programing Contests is an alliance of 32 clubs from 31 universities gathered to prepare for and participate in domestic and international programming contests. We **host a summer contest (UCPC)** every year with the **goal of fostering interaction and growth within the university student algorithm problem-solving community**.
 
 This year, we are also planning to **host UCPC 2026 during July-August**, and we would like to **request your company's valuable sponsorship** for the successful operation of the contest.
 
