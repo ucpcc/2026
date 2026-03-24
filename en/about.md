@@ -13,7 +13,7 @@ UCPC both serves as a place of trial for teams preparing for ICPC, and as a foru
 
 ## Schedule and Venue
 
-### Qualifier
+### Preliminary
 
 TBD
 
@@ -23,14 +23,14 @@ TBD
 
 ## Eligibility
 
-Anyone who meets the following citeria is eligible for UCPC
-  Undergraduates and master's program students.(students who are currently enrolled, on leave of absence, or completed their course are all allowed, except for graduates)
+Anyone who meets the following criteria is eligible for UCPC
+  Undergraduates and master's program students.(students who are currently enrolled, on leave of absence, or completed their coursework are all allowed, except for graduates)
   
   Finalists must be able to submit supporting documents to verify their status.
 
   Supporting documents must be issued within 90 days of the final contest date, and documents must be of a type that allows Unions of Clubs for Programming Contests to verify the participant's current academic status.(ex: Certificate of Enrollment, Certificate of Student Record, Certificate of Leave of Absence)
 
-Teams may consist of studensts from different universities.
+Teams may consist of students from different universities.
 
 Students who are not from a club affiliated with UCPC are also admitted.
 
@@ -50,7 +50,7 @@ Scores are evaluated based on the number of problems a team solved accurately wi
 
 ### Format
 
-Particpants solve problems by writing source code that generates the correct output and submitting the written code to the Online Judge system.
+Participants solve problems by writing source code that generates the correct output and submitting the written code to the Online Judge system.
 
 The system executes the submitted source code and returns either "accepted" or "wrong answer" as the verdict.
 
@@ -67,7 +67,7 @@ From the submission history, each team receives a penalty score aside from the n
 A team's penalty is the sum of the penalties for each problem calculated by the following formula. 
   (Submission time of the first submission that is accepted - starting time of the contest)+(number of     wrong submissions before the first accepted submission) × 20
 
-Teams are rated based on the following citeria, applied in order
+Teams are rated based on the following criteria, applied in order
 
   Highest number of problems solved
 
