@@ -42,5 +42,5 @@ At the discretion of the judging committee, submitted problems may be rejected i
 
 ## Notes
 
-- The problems submitted to the UCPC 2026 Call for Tasks will be reviewed by Geunyoung Jang (azberjibiou, KAIST), Jongseo Lee (leejseo, KAIST), Sunghyun Lee (hibye1217, Hanyang University), and Mincheol Shin (fefe, KAIST).
+- The problems submitted to the UCPC 2026 Call for Tasks will be reviewed by Geunyoung Jang (azberjibiou, KAIST), Jongseo Lee (leejseo, KAIST), Sunghyun Lee (hibye1217, Hanyang University), and Minchurl Shin (fefe, KAIST).
 - For efficient review, LLMs may be utilized, but the review will only be conducted in an environment configured so that the submitted materials are not used for model training.
