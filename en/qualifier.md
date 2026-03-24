@@ -12,7 +12,7 @@ TBD
 
 ## Contest Procedures
 
-- Account information for the contest will be distributed to participating teams a few days before the event. You should log in with this account to compete.
+- A temporary account for the contest will be made and handed out to participating teams a few days before the event. You should log in with this account to compete.
 - You may use internet searches or pre-written code.
 
 ### Important Notes
