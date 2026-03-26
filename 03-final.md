@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 본선
+lang: ko
 permalink: /final/
 ---
 

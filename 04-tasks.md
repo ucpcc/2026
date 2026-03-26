@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Call for Tasks
+lang: ko
 permalink: /tasks/
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 스폰서 문의
+lang: ko
 permalink: /sponsor/
 ---
 
