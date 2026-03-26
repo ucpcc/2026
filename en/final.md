@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Finals
+title: Final
 lang: en
 permalink: /en/final/
 ---
