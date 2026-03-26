@@ -39,7 +39,7 @@ If you decide to sponsor us, the following are possible:
 - You can operate a sponsor booth at the Finals.
 - We provide individual contact information if participants have agreed to the provision of their personal information.
 
-## How to Sponsor
+## Contact
 
 We ask for your active interest and positive consideration of this sponsorship, which can be expected to have practical effects such as vitalizing the university student algorithm problem-solving community, promoting your company's technology, and recruiting outstanding talent.
 
