@@ -1,6 +1,8 @@
 ---
 layout: home
 title: UCPC 2026
+lang: en
+permalink: /en/
 ---
 
 ## Main Announcements
