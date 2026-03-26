@@ -2,7 +2,7 @@
 layout: page
 title: Preliminary
 lang: en
-permalink: /Preliminary/
+permalink: /en/preliminary/
 ---
 
 ## Schedule
