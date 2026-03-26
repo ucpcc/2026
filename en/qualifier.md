@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Qualifier
-permalink: /qualifier/
+title: Preliminary
+permalink: /Preliminary/
 ---
 
 ## Schedule
