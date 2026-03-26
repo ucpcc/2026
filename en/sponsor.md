@@ -13,7 +13,7 @@ permalink: /en/sponsor/
   TBD
 </h4>
 
-## Sponsor Inquiry
+## Sponsorship Inquiry
 
 Hello, we are the Union of Clubs for Programing Contests.
 
