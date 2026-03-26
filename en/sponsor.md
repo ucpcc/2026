@@ -28,7 +28,7 @@ This year, we are also planning to **host UCPC 2026 during July-August**, and we
   - If financial sponsorship is difficult, product sponsorship is also possible.
 - **Costs for problem setting and reviewing**
 
-## Promotional Benefits
+## Expected Benefits
 
 If you decide to sponsor us, the following are possible:
 
