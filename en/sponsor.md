@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sponsor Inquiry
+title: Sponsor
 lang: en
 permalink: /en/sponsor/
 ---
