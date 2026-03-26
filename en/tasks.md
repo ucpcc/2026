@@ -8,7 +8,7 @@ permalink: /en/tasks/
 We are calling for tasks to be used in UCPC 2026! We look forward to your creative and interesting problems.
 
 The Call for Tasks for UCPC 2026 will close on April 15, 2026. 
-## Submission Method
+## Submission Guide
 
 Please submit both the problem and its editorial (solution).
 
