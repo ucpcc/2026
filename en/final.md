@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Finals
-permalink: /final/
+lang: en
+permalink: /en/final/
 ---
 
 ## Finals Participation Information
