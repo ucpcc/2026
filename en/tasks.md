@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Call for Tasks
-permalink: /tasks/
+lang: en
+permalink: /en/tasks/
 ---
 
 We are calling for tasks to be used in UCPC 2026! We look forward to your creative and interesting problems.
