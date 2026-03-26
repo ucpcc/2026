@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Sponsor Inquiry
-permalink: /sponsor/
+lang: en
+permalink: /en/sponsor/
 ---
 
 <h2 style="text-align: center;">
