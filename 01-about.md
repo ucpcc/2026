@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 대회 안내
+lang: ko
 permalink: /about/
 ---
 

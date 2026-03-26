@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Preliminary
+title: Qualifier
 lang: en
-permalink: /en/preliminary/
+permalink: /en/qualifier/
 ---
 
 ## Schedule
@@ -14,6 +14,7 @@ TBD
 ## Contest Procedures
 
 - A temporary account for the contest will be made and handed out to participating teams a few days before the event. You should log in with this account to compete.
+<!-- - UCPC 2026 예선 대회에서는 **Zoom을 이용한 실시간 감독**을 진행할 예정입니다. 자세한 사항은 [링크](https://docs.google.com/document/d/1vrTIX3RskTrBfxUC0ZcPxCj00-Jco8y_JmncfJhT5WM/edit?usp=sharing)를 참고해 주세요.-->
 - You may use internet searches or pre-written code.
 
 ### Important Notes

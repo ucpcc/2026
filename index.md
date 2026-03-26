@@ -1,6 +1,7 @@
 ---
 layout: home
 title: UCPC 2026
+lang: ko
 ---
 
 ## 주요 공지

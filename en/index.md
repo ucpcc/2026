@@ -13,11 +13,11 @@ permalink: /en/
 
 ## Contest Schedule and Venue
 
-Registration — TBD
+Registration —- TBD
 
-Qualifier — TBD
+Qualifier —- TBD
 
-Finals — TBD
+Finals —- TBD
 
 ---
 

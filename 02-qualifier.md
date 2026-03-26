@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 예선
+lang: ko
 permalink: /qualifier/
 ---
 
