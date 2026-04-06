@@ -15,7 +15,7 @@ UCPC both serves as a place of trial for teams preparing for ICPC, and as a foru
 
 ## Schedule and Venue
 
-### Preliminary
+### Qualifier
 
 TBD
 
