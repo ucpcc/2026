@@ -7,6 +7,8 @@ lang: ko
 ## 주요 공지
 
 - (2/22) UCPC 2026이 개최됩니다!
+- (4/16) [Call for Tasks](https://2026.ucpc.me/tasks/)가 마감되었습니다.
+
 
 ---
 
