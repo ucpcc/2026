@@ -11,11 +11,19 @@ permalink: /final/
 
 ## 일정
 
-TBD
+**7월 12일 (일)**
 
 ## 장소
 
-TBD
+카이스트 학술문화관 5층 정근모컨퍼런스홀([네이버맵](https://naver.me/xBwflJ2C))
+
+{%- include map.html -%}
+
+## 세미나
+
+본선 다음 날인 **7월 13일 (월)**에는 전대프연 세미나가 카이스트 대강당에서 열릴 예정입니다.
+
+자세한 사항은 [seminar.ucpc.me](https://seminar.ucpc.me/)에 추후 공지될 예정입니다.
 
 ---
 

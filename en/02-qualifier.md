@@ -7,7 +7,7 @@ permalink: /en/qualifier/
 
 ## Schedule
 
-TBD
+**June 27 (Sat.)**, online.
 
 ---
 

@@ -11,11 +11,19 @@ Teams that have passed the plagiarism check in the qualifier without any disqual
 
 ## Schedule
 
-TBD
+**July 12 (Sun.)**
 
 ## Venue
 
-TBD
+KAIST Academic Cultural Complex, 5F Jung Geun Mo Conference Hall ([Naver Map](https://naver.me/xBwflJ2C))
+
+{%- include map.html -%}
+
+## Seminar
+
+The UCPC Seminar is scheduled to be held at KAIST Auditorium on **July 13 (Mon.)**, the day after the Finals.
+
+More details will be announced later at [seminar.ucpc.me](https://seminar.ucpc.me/).
 
 ---
 
