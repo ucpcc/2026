@@ -7,8 +7,8 @@ permalink: /en/
 
 ## Main Announcements
 
-- (2/22) UCPC 2026 will be held!
 - (4/16) [Call for Tasks](https://2026.ucpc.me/en/tasks/) are now closed!
+- (2/22) UCPC 2026 will be held!
 
 ---
 
