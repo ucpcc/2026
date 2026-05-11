@@ -20,16 +20,52 @@
     </div>
     <div style="height: 2rem;"></div>
     <div class="contents">
-      <div class="main_caption">
+      <div class="main_caption main_notices">
+        {% if page.lang == 'en' %}
         <div class="main_notice">
-            <!-- <b>대회일정 TBD</b> -->
+          <b>Qualifier</b>
+          <span>June 27 &middot; Online</span>
         </div>
+        <div class="main_notice">
+          <b>Finals</b>
+          <span>
+            July 12 &middot;
+            <a href="https://naver.me/xBwflJ2C">Chung Kun Mo Conference Hall, KAIST</a>
+          </span>
+        </div>
+        <div class="main_notice">
+          <b>Seminar</b>
+          <span>
+            July 13 &middot;
+            <a href="https://naver.me/xBwfnQQI">KAIST Auditorium</a>
+          </span>
+        </div>
+        {% else %}
+        <div class="main_notice">
+          <b>예선대회</b>
+          <span>6월 27일 &middot; 온라인</span>
+        </div>
+        <div class="main_notice">
+          <b>본선대회</b>
+          <span>
+            7월 12일 &middot;
+            <a href="https://naver.me/xBwflJ2C">카이스트 본원 학술문화관 5층 정근모컨퍼런스홀</a>
+          </span>
+        </div>
+        <div class="main_notice">
+          <b>전대프연 세미나</b>
+          <span>
+            7월 13일 &middot;
+            <a href="https://naver.me/xBwfnQQI">카이스트 본원 대강당</a>
+          </span>
+        </div>
+        {% endif %}
       </div>
     </div>
     <div style="height: 4rem;"></div>
     <div class="cover_image">
-      <img id="main-pic-blurry" alt="UCPC 2025">
-      <img id="main-pic" alt="UCPC 2025">
+      <img id="main-pic-blurry" alt="UCPC 2026">
+      <img id="main-pic" alt="UCPC 2026">
     </div>
     <script type="text/javascript">
       function lpad(num, pad_str, len) {

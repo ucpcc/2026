@@ -54,9 +54,33 @@ div.main_caption {
   text-align: center;
 }
 
+div.main_notices {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1.5rem;
+  align-items: start;
+}
+
 div.main_notice {
   text-align: center;
-  font-size: 1.6rem;
+  padding: 0 0.75rem;
+
+  & + div.main_notice {
+    border-left: 1px solid var(--ucpc-gray-light);
+  }
+
+  b {
+    display: block;
+    font-size: 1.6rem;
+    line-height: 1.2;
+  }
+
+  span {
+    display: block;
+    margin-top: 0.15rem;
+    font-size: 1.05rem;
+    line-height: 1.45;
+  }
 }
 
 div.main_date {
@@ -106,5 +130,18 @@ main.index {
     top: 1.4rem;
     right: 1rem;
     font-size: 0.95em;
+  }
+
+  div.main_notices {
+    grid-template-columns: 1fr;
+    gap: 0.85rem;
+  }
+
+  div.main_notice {
+    padding: 0;
+
+    & + div.main_notice {
+      border-left: none;
+    }
   }
 }
