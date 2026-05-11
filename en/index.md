@@ -7,6 +7,7 @@ permalink: /en/
 
 ## Main Announcements
 
+- (5/11) The contest schedule and venue have been finalized.
 - (4/16) [Call for Tasks](https://2026.ucpc.me/en/tasks/) are now closed!
 - (2/22) UCPC 2026 will be held!
 
@@ -16,9 +17,9 @@ permalink: /en/
 
 Registration —- TBD
 
-Qualifier —- TBD
+Qualifier —- **June 27 (Sat)**, Online
 
-Finals —- TBD
+Finals —- **July 12 (Sun)**, Chung Kun Mo Conference Hall (5F), KAIST Academic Cultural Complex
 
 ---
 
