@@ -101,7 +101,7 @@ The following language-specific reference documents can be accessed and used dur
 ## Supported Languages
 
 Following ICPC trends, only **C, C++, Java, Kotlin, and PyPy3** are available.
-For language-specific environments and execution methods, please refer to the [BOJ Language Environment](https://www.acmicpc.net/help/language) page.
+For language-specific environments and execution methods, please refer to the [BOJ Language Environment](https://ucpc.acmicpc.net/language) page.
 
 **No additional time or memory will be provided per language**.
 Participants must choose an appropriate language for each problem.

@@ -39,7 +39,7 @@ You can also log in to the practice session using the provided account informati
 ## Supported Languages
 
 - Following ICPC trends, only **C11, C++20, Java, Kotlin, and PyPy3** are available.
-- For language-specific environments and execution methods, please refer to the [BOJ Language Environment](https://www.acmicpc.net/help/language) page. It is also available on the info page.
+- For language-specific environments and execution methods, please refer to the [BOJ Language Environment](https://ucpc.acmicpc.net/language) page. It is also available on the info page.
 - Following ICPC trends, **no additional time or memory will be provided per language**. Participants must choose an appropriate language for each problem.
 
 ## Selection of Teams Advancing to the Finals
