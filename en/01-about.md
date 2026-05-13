@@ -17,11 +17,17 @@ UCPC both serves as a place of trial for teams preparing for ICPC, and as a foru
 
 ### Qualifier
 
-TBD
+**June 27 (Sat.)**, online.
 
 ### Final
 
-TBD
+**July 12 (Sun.)**, KAIST Academic Cultural Complex, 5F Jung Geun Mo Conference Hall ([Naver Map](https://naver.me/xBwflJ2C))
+
+## Seminar
+
+The UCPC Seminar is scheduled to be held at KAIST Auditorium on **July 13 (Mon.)**, the day after the Finals.
+
+More details will be announced later at [seminar.ucpc.me](https://seminar.ucpc.me/).
 
 ## Eligibility
 
