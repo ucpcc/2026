@@ -7,6 +7,7 @@ permalink: /en/
 
 ## Main Announcements
 
+- (6/5) [Registration for UCPC 2026](https://forms.gle/g5ByqXEgFSw7QR2d7) is now open. Applications are due by June 18 (Thu.).
 - (5/11) The contest schedule and venue have been finalized.
 - (4/16) [Call for Tasks](https://2026.ucpc.me/en/tasks/) are now closed!
 - (2/22) UCPC 2026 will be held!
@@ -15,7 +16,9 @@ permalink: /en/
 
 ## Contest Schedule and Venue
 
-Registration —- TBD
+Registration — **June 5 (Fri.)** to **June 18 (Thu.)**
+
+<span style="font-size: 1.2em;">[Registration link](https://forms.gle/g5ByqXEgFSw7QR2d7)</span>
 
 Qualifier —- **June 27 (Sat)**, Online
 
