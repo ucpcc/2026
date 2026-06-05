@@ -1,17 +1,25 @@
 <h3 style="text-align: center;">
+  {%- if page.lang == "en" -%}
+  Organization Sponsors
+  {%- else -%}
   기업 후원
+  {%- endif -%}
 </h3>
 <div class="line"></div>
 
-<div class="logoWrapper">
+<div class="logoWrapper sponsor-logo-grid">
   {%- include sponsors.html sponsor="organization" -%}
 </div>
 
 <h3 style="text-align: center;">
+  {%- if page.lang == "en" -%}
+  Individual Sponsors
+  {%- else -%}
   개인 후원
+  {%- endif -%}
 </h3>
 <div class="line"></div>
 
-<div class="logoWrapper">
+<div class="logoWrapper sponsor-logo-grid">
   {%- include sponsors.html sponsor="individual" -%}
 </div>

@@ -25,7 +25,7 @@ Finals —- **July 12 (Sun)**, Chung Kun Mo Conference Hall (5F), KAIST Academic
 
 ## UCPC 2026 Sponsors
 
-TBD
+<div> {%- include sponsorsGroup.html -%} </div>
 
 ---
 
