@@ -28,7 +28,7 @@ lang: ko
 
 ## UCPC 2026 스폰서
 
-TBD
+<div> {%- include sponsorsGroup.html -%} </div>
 
 ---
 
