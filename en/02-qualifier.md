@@ -44,4 +44,6 @@ You can also log in to the practice session using the provided account informati
 
 ## Selection of Teams Advancing to the Finals
 
-TBD
+- The top 40 to 50 teams will be selected based on qualifier results.
+- Up to 15 additional teams will be selected from the highest-ranked team at each university among teams consisting of three undergraduate students from the same university.
+- The selection criteria may change before the qualifier at the discretion of the organizers.
