@@ -83,15 +83,15 @@ div.logoWrapper {
 
 div.logoWrapper.sponsor-logo-grid {
   display: grid;
-  grid-template-columns: repeat(4, 140px);
+  grid-template-columns: repeat(4, 156px);
   justify-content: center;
   align-items: center;
   gap: 16px 24px;
 }
 
 div.logo {
-  width: 140px;
-  height: 50px;
+  width: 156px;
+  height: 58px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -107,12 +107,12 @@ div.line {
 
 @media (max-width: 680px) {
   div.logoWrapper.sponsor-logo-grid {
-    grid-template-columns: repeat(2, 140px);
+    grid-template-columns: repeat(2, 156px);
   }
 }
 
 @media (max-width: 360px) {
   div.logoWrapper.sponsor-logo-grid {
-    grid-template-columns: repeat(1, 140px);
+    grid-template-columns: repeat(1, 156px);
   }
 }
