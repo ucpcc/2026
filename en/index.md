@@ -7,6 +7,7 @@ permalink: /en/
 
 ## Main Announcements
 
+- (6/15) [UCPC 2026 team building applications](https://forms.gle/iBDBkLqmkUPseoa87) are open.
 - (6/15) The registration period has been extended to June 20 (Sat.) 23:59.
 - (6/15) The total prize pool for UCPC 2026 has been finalized at KRW 8,000,000.
 - (6/15) Accommodation support plans for Finals participants have been finalized.
