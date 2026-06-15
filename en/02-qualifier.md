@@ -14,7 +14,7 @@ permalink: /en/qualifier/
 ## Contest Procedures
 
 - A temporary account for the contest will be made and handed out to participating teams a few days before the event. You should log in with this account to compete.
-<!-- - UCPC 2026 예선 대회에서는 **Zoom을 이용한 실시간 감독**을 진행할 예정입니다. 자세한 사항은 [링크](https://docs.google.com/document/d/1vrTIX3RskTrBfxUC0ZcPxCj00-Jco8y_JmncfJhT5WM/edit?usp=sharing)를 참고해 주세요.-->
+- The UCPC 2026 Qualifier will use **real-time proctoring via Zoom**. Please refer to [this document](https://docs.google.com/document/d/1sHVccpOPcR9Icth1Glb2U5Ygr0ww8pIrJjN3fG4XqUM/edit?tab=t.0#heading=h.dn0nxyho7rtu) for details.
 - You may use internet searches or pre-written code.
 
 ### Important Notes
@@ -25,14 +25,30 @@ permalink: /en/qualifier/
 - Violating the above notes will be considered cheating and will result in disqualification.
 - Any other matters not explicitly stated herein may be decided at the discretion of the organizers.
 
-## Practice Session
+## Practice Session Schedule
 
-A practice session will be held on the contest site the day before the contest. The practice session is intended for testing the system in the same environment as the actual contest.
+The practice session will be held on **Friday, June 26**, the day before the qualifier, between **18:00 and 21:00**.
 
-Please make sure to participate in the practice session to verify that there are no issues with submitting answers and grading.
-You can also log in to the practice session using the provided account information.
+| Time | Details |
+| --- | --- |
+| 18:00 ~ 21:00 | Join the Zoom meeting room at any time between 18:00 and 21:00 to check your equipment and network, and try the contest environment. |
+
+Attending the practice session is recommended but not mandatory. If you skip the practice session and fail to pass the proctoring check on the contest day because of setup issues, you may be disqualified, so we strongly recommend attending the practice session.
+
+## Qualifier Day Schedule
+
+| Time | Details |
+| --- | --- |
+| 12:40 ~ 13:00 | All participants should join their Zoom meeting room individually. |
+| 13:00 ~ 14:00 | Check Zoom settings (screen sharing, webcam, etc.) under the proctor's instructions. |
+| 14:00 ~ 17:00 | Qualifier contest. |
+| 17:00 ~ | After the contest ends, participants may freely leave the Zoom meeting room. |
+
+If you fail to join before 13:00, or if you join after 13:00 but do not pass the proctoring check before 14:00, you may be disqualified.
 
 ## Judging Environment
+
+- Please refer to the [contest info](https://ucpc.acmicpc.net/info) page.
 
 - It is guaranteed that all problems can be solved within the time limit and memory limit using at least one of the languages supported by the contest.
 
