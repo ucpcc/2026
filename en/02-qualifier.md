@@ -13,16 +13,53 @@ permalink: /en/qualifier/
 
 ## Contest Procedures
 
+### [June 23] Notice on Anti-Cheating Measures
+
+Due to the rapid development of generative AI technologies, the operating environment for online programming contests has changed significantly. In particular, AI features integrated into search engines now provide reasoning and code generation capabilities that can be directly used in solving problems, beyond simple information retrieval.
+
+The UCPC organizers are strengthening anti-cheating measures to provide a fair contest environment where the efforts of participants who have prepared for the contest over a long period can be evaluated properly.
+
+We sincerely apologize for providing this additional notice only a few days before the qualifier. However, these measures are intended to protect a fair competitive environment for all participants, and we ask for your understanding.
+
+The main changes are as follows.
+
+- Internet searches are prohibited.
+  - Because generative AI features recently integrated into search engines can directly assist with problem solving, internet searches are prohibited during the contest.
+  - Please prepare any necessary reference materials or code in your team note in advance.
+- A team note submission process will be introduced.
+  - For post-contest verification, each team will be required to submit its team note before the contest starts.
+  - Team notes may be up to 25 single-sided A4 pages.
+  - You may freely prepare your team note by referring to the Finals team reference document.
+  - Submission instructions and the submission link will be provided later through the participant account information email.
+- Code verification will be conducted after the contest.
+  - The organizers will conduct code similarity checks, submission history analysis, team note review, and related verification.
+  - If suspicious signs are found, the organizers may request additional explanation.
+- A real-time explanation process will be introduced.
+  - If cheating is suspected, the organizers may request a real-time video meeting through the representative's email between 09:00 and 17:00 on the day after the contest.
+  - Failure to respond to an explanation request without a valid reason may be considered cheating and may result in disqualification.
+- Penalties for cheating will be strengthened.
+  - If cheating is detected, the team will be disqualified immediately and will lose eligibility to participate in UCPC for the next five years.
+
+The organizers will do our best to make the contest one where participants' efforts can be evaluated fairly.
+
+- Full participant notice: [Document link](https://docs.google.com/document/d/1U03DGHhNr9_gyp-QLOg8U-0Ogf7H8dsPo92m5KEhkWo/edit?usp=sharing)
+
+---
+
 - A temporary account for the contest will be made and handed out to participating teams a few days before the event. You should log in with this account to compete.
-- The UCPC 2026 Qualifier will use **real-time proctoring via Zoom**. Please refer to [this document](https://docs.google.com/document/d/1sHVccpOPcR9Icth1Glb2U5Ygr0ww8pIrJjN3fG4XqUM/edit?tab=t.0#heading=h.dn0nxyho7rtu) for details.
-- You may use internet searches or pre-written code.
+- The UCPC 2026 Qualifier will use **real-time proctoring via Zoom**. Please refer to [this document](https://docs.google.com/document/d/1U03DGHhNr9_gyp-QLOg8U-0Ogf7H8dsPo92m5KEhkWo/edit?tab=t.0) for details.
+- Internet searches are prohibited during the contest. Please prepare any necessary reference materials or code in your submitted team note.
 
 ### Important Notes
 
 - Source code plagiarism checks will be conducted after the contest ends. If plagiarism is detected, the involved teams will be disqualified.
+- After the contest, the organizers will conduct code similarity checks, submission history analysis, team note review, and related verification.
+- If suspicious signs are found, the organizers may request additional explanation.
+- If cheating is suspected, the organizers may request a real-time video meeting through the representative's email between 09:00 and 17:00 on the day after the contest.
+- Failure to respond to an explanation request without a valid reason may be considered cheating and may result in disqualification.
 - You must not communicate with anyone other than your teammates during the contest. Communicating about the problems in any form with a non-teammate is considered cheating.
 - You must not share the contest account information with anyone who is not a teammate.
-- Violating the above notes will be considered cheating and will result in disqualification.
+- Violating the above notes or being found to have cheated will result in immediate disqualification, and the team will lose eligibility to participate in UCPC for the next five years.
 - Any other matters not explicitly stated herein may be decided at the discretion of the organizers.
 
 ## Practice Session Schedule
