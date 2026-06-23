@@ -38,7 +38,7 @@ The main changes are as follows.
   - If cheating is suspected, the organizers may request a real-time video meeting through the representative's email between 09:00 and 17:00 on the day after the contest.
   - Failure to respond to an explanation request without a valid reason may be considered cheating and may result in disqualification.
 - Penalties for cheating will be strengthened.
-  - If cheating is detected, the team will be disqualified immediately and will lose eligibility to participate in UCPC for the next five years.
+  - If cheating is detected, the team will be disqualified immediately and will lose eligibility to participate in UCPC for the next year.
 
 The organizers will do our best to make the contest one where participants' efforts can be evaluated fairly.
 
