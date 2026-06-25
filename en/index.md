@@ -25,8 +25,6 @@ permalink: /en/
 
 Registration — **June 5 (Fri.)** to **June 22 (Mon.) at 11:59 PM KST**
 
-<span style="font-size: 1.2em;">[Registration link](https://forms.gle/g5ByqXEgFSw7QR2d7)</span>
-
 Qualifier —- **June 27 (Sat)**, Online
 
 Finals —- **July 12 (Sun)**, Chung Kun Mo Conference Hall (5F), KAIST Academic Cultural Complex
