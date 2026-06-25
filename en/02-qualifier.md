@@ -59,7 +59,7 @@ The organizers will do our best to make the contest one where participants' effo
 - Failure to respond to an explanation request without a valid reason may be considered cheating and may result in disqualification.
 - You must not communicate with anyone other than your teammates during the contest. Communicating about the problems in any form with a non-teammate is considered cheating.
 - You must not share the contest account information with anyone who is not a teammate.
-- Violating the above notes or being found to have cheated will result in immediate disqualification, and the team will lose eligibility to participate in UCPC for the next five years.
+- Violating the above notes or being found to have cheated will result in immediate disqualification, and the team will lose eligibility to participate in UCPC for the next year.
 - Any other matters not explicitly stated herein may be decided at the discretion of the organizers.
 
 ## Practice Session Schedule
