@@ -31,6 +31,8 @@ The main changes are as follows.
   - Team notes may be up to 25 single-sided A4 pages.
   - You may freely prepare your team note by referring to the Finals team reference document.
   - Submission instructions and the submission link will be provided later through the participant account information email.
+  - Copying or pasting content from the team note is not allowed.
+  - You may view your team note in PDF format, and using a printed copy is also recommended.
 - Code verification will be conducted after the contest.
   - The organizers will conduct code similarity checks, submission history analysis, team note review, and related verification.
   - If suspicious signs are found, the organizers may request additional explanation.
