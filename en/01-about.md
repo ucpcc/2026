@@ -69,7 +69,13 @@ More details will be announced later at [seminar.ucpc.me](https://seminar.ucpc.m
 
 ## Awards
 
-TBD
+| Award | Prize |
+| --- | --- |
+| 1st Place Prize | Apple iPad 11th generation, A16, Wi-Fi, Silver, 128GB |
+| 2nd Place Prize | Apple AirPods 4 with Active Noise Cancellation |
+| 3rd Place Prize | Sony WH-CH720N, Black |
+| 4th Place Prize | Anker Prime 20,100mAh 220W Power Bank A110B |
+| 5th Place Prize | AULA F87Pro wired Korean-layout mechanical keyboard, Dark Olivia, KTT Silent Sea switches |
 
 ## Past Contests
 
