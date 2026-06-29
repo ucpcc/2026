@@ -76,6 +76,9 @@ More details will be announced later at [seminar.ucpc.me](https://seminar.ucpc.m
 | 3rd Place Prize | Sony WH-CH720N, Black |
 | 4th Place Prize | Anker Prime 20,100mAh 220W Power Bank A110B |
 | 5th Place Prize | AULA F87Pro wired Korean-layout mechanical keyboard, Dark Olivia, KTT Silent Sea switches |
+| Special Prize | TBD |
+
+Awards may be subject to change depending on circumstances.
 
 ## Past Contests
 

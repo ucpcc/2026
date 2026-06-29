@@ -13,6 +13,20 @@ Teams that have passed the plagiarism check in the qualifier without any disqual
 
 **July 12 (Sun.)**
 
+Below is the schedule for Finals day.
+
+| Time | Details |
+| --- | --- |
+| 09:00 ~ 11:00 | Participant registration and sponsor booths |
+| 11:00 ~ 16:00 | UCPC 2026 Finals |
+| 16:00 ~ 16:20 | Break |
+| 16:20 ~ 17:20 | Sponsor sessions |
+| 17:20 ~ 18:00 | Scoreboard reveal, awards ceremony, and group photo |
+| 18:00 ~ 18:30 | Transfer (shuttle bus) |
+| 18:30 ~ 20:30 | Jane Street Game Night (Hotel Onoma) |
+
+※ Registration will be open until 10:30. Participants arriving after that time will not be registered.
+
 ## Venue
 
 KAIST Academic Cultural Complex, 5F Jung Geun Mo Conference Hall ([Naver Map](https://naver.me/xBwflJ2C))
@@ -39,7 +53,16 @@ It will be held offline.
 
 ## Awards
 
-TBD
+| Award | Prize |
+| --- | --- |
+| 1st Place Prize | Apple iPad 11th generation, A16, Wi-Fi, Silver, 128GB |
+| 2nd Place Prize | Apple AirPods 4 with Active Noise Cancellation |
+| 3rd Place Prize | Sony WH-CH720N, Black |
+| 4th Place Prize | Anker Prime 20,100mAh 220W Power Bank A110B |
+| 5th Place Prize | AULA F87Pro wired Korean-layout mechanical keyboard, Dark Olivia, KTT Silent Sea switches |
+| Special Prize | TBD |
+
+Awards may be subject to change depending on circumstances.
 
 ## Important Notes
 
