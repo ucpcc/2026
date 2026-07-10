@@ -76,7 +76,7 @@ Awards may be subject to change depending on circumstances.
 
 ### Team Reference Document
 
-- You may bring a team reference document consisting of up to 25 single-sided A4 pages. You must print the team reference document yourselves and bring either 1 or 3 copies.
+- You may bring a team reference document consisting of up to 25 single-sided A4 pages. You must print the team reference document yourselves and bring 1 copy.
   - If the printed text is too small (<2mm, approx. 6pt), it may be rejected.
   - Team reference documents will be inspected during registration, and if rejected, they cannot be brought in.
 - All pages of the team reference document must have the team name and page number printed on them.
