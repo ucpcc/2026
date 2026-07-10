@@ -6,6 +6,7 @@ permalink: /en/
 ---
 
 ## Main Announcements
+- (7/10) The UCPC 2026 Finals information email has been sent. All Finals participants must review it.
 - (6/29) Emails regarding Finals qualification status have been sent.
 - (6/24) [Registration for the UCPC Union 2026 Seminar](https://forms.gle/fshRRESmd2PLdcqS6) is now open. See the [seminar page](https://seminar.ucpc.me/) for details.
 - (6/23) Guidance on anti-cheating measures and team note submission for the Qualifier has been added. See the [Qualifier page](/en/qualifier/) for details.
